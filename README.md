@@ -5,4 +5,5 @@ To play the game on your desktop: Simply download the Build folder and run the .
 
 How to play: Avoid going to areas where the character gets hurt. Press "c" to throw objects at the robot to stop or fix it. There is a giant frog, press "X" near it to talk to him.
 
-:Game resources are taken from unity assest store.
+
+Credits: Game resources have been taken from unity asset store and all the tutorial resources are provided by Unity Learn.
